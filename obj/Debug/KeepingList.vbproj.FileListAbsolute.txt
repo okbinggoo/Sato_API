@@ -1,0 +1,183 @@
+D:\WEB\KeepingList\KeepingList\bin\roslyn\csc.exe
+D:\WEB\KeepingList\KeepingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WEB\KeepingList\KeepingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB\KeepingList\KeepingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WEB\KeepingList\KeepingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WEB\KeepingList\KeepingList\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WEB\KeepingList\KeepingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WEB\KeepingList\KeepingList\bin\roslyn\System.Collections.Immutable.dll
+D:\WEB\KeepingList\KeepingList\bin\roslyn\System.Reflection.Metadata.dll
+D:\WEB\KeepingList\KeepingList\bin\roslyn\vbc.exe
+D:\WEB\KeepingList\KeepingList\bin\roslyn\VBCSCompiler.exe
+D:\WEB\KeepingList\KeepingList\bin\roslyn\VBCSCompiler.exe.config
+D:\WEB\KeepingList\KeepingList\bin\KeepingList.dll.config
+D:\WEB\KeepingList\KeepingList\bin\KeepingList.dll
+D:\WEB\KeepingList\KeepingList\bin\KeepingList.pdb
+D:\WEB\KeepingList\KeepingList\bin\KeepingList.xml
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WEB\KeepingList\KeepingList\bin\Oracle.DataAccess.dll
+D:\WEB\KeepingList\KeepingList\bin\PdfSharp.Charting.dll
+D:\WEB\KeepingList\KeepingList\bin\PdfSharp.dll
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WEB\KeepingList\KeepingList\bin\PdfSharp.xml
+D:\WEB\KeepingList\KeepingList\bin\PdfSharp.Charting.xml
+D:\WEB\KeepingList\KeepingList\bin\de\PdfSharp.resources.dll
+D:\WEB\KeepingList\KeepingList\bin\de\PdfSharp.Charting.resources.dll
+D:\WEB\KeepingList\KeepingList\obj\Debug\KeepingList.Resources.resources
+D:\WEB\KeepingList\KeepingList\obj\Debug\KeepingList.vbproj.GenerateResource.Cache
+D:\WEB\KeepingList\KeepingList\obj\Debug\KeepingList.dll
+D:\WEB\KeepingList\KeepingList\obj\Debug\KeepingList.xml
+D:\WEB\KeepingList\KeepingList\obj\Debug\KeepingList.pdb
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.DependencyCollector.dll
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.Web.dll
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.WindowsServer.dll
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.ApplicationInsights.dll
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\WEB\KeepingList\KeepingList\bin\System.Buffers.dll
+D:\WEB\KeepingList\KeepingList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\WEB\KeepingList\KeepingList\bin\System.Memory.dll
+D:\WEB\KeepingList\KeepingList\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.DependencyCollector.pdb
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.DependencyCollector.xml
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.PerfCounterCollector.pdb
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.Web.pdb
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.Web.xml
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.WindowsServer.pdb
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AI.WindowsServer.xml
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.ApplicationInsights.pdb
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.ApplicationInsights.xml
+D:\WEB\KeepingList\KeepingList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\WEB\KeepingList\KeepingList\bin\System.Buffers.xml
+D:\WEB\KeepingList\KeepingList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\WEB\KeepingList\KeepingList\bin\System.Memory.xml
+D:\WEB\KeepingList\KeepingList\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\csc.exe
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\System.Collections.Immutable.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\System.Reflection.Metadata.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\vbc.exe
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\VBCSCompiler.exe
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\roslyn\VBCSCompiler.exe.config
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\KeepingList.dll.config
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\KeepingList.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\KeepingList.pdb
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\KeepingList.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.DependencyCollector.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.Web.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.WindowsServer.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.ApplicationInsights.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Oracle.DataAccess.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\PdfSharp.Charting.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\PdfSharp.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\System.Buffers.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\System.Memory.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.DependencyCollector.pdb
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.DependencyCollector.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.PerfCounterCollector.pdb
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.PerfCounterCollector.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.Web.pdb
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.Web.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.WindowsServer.pdb
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AI.WindowsServer.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.ApplicationInsights.pdb
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.ApplicationInsights.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\PdfSharp.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\PdfSharp.Charting.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\System.Buffers.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\System.Memory.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\de\PdfSharp.resources.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\bin\de\PdfSharp.Charting.resources.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\obj\Debug\KeepingList.vbproj.AssemblyReference.cache
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\obj\Debug\KeepingList.Resources.resources
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\obj\Debug\KeepingList.vbproj.GenerateResource.cache
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\obj\Debug\KeepingList.vbproj.CoreCompileInputs.cache
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\obj\Debug\KeepingList.vbproj.CopyComplete
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\obj\Debug\KeepingList.dll
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\obj\Debug\KeepingList.xml
+F:\Public Folder\MTB00\MTB40\(50) Si\PDF\KeepingList\KeepingList\obj\Debug\KeepingList.pdb
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\csc.exe
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\System.Collections.Immutable.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\System.Reflection.Metadata.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\vbc.exe
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\VBCSCompiler.exe
+D:\GLS\SATO\KeepingList\KeepingList\bin\roslyn\VBCSCompiler.exe.config
+D:\GLS\SATO\KeepingList\KeepingList\bin\KeepingList.dll.config
+D:\GLS\SATO\KeepingList\KeepingList\bin\KeepingList.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\KeepingList.pdb
+D:\GLS\SATO\KeepingList\KeepingList\bin\KeepingList.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.DependencyCollector.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.Web.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.WindowsServer.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.ApplicationInsights.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Oracle.DataAccess.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\PdfSharp.Charting.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\PdfSharp.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\System.Buffers.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\System.Diagnostics.DiagnosticSource.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\System.Memory.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.DependencyCollector.pdb
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.DependencyCollector.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.PerfCounterCollector.pdb
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.Web.pdb
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.Web.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.WindowsServer.pdb
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AI.WindowsServer.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.ApplicationInsights.pdb
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.ApplicationInsights.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\PdfSharp.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\PdfSharp.Charting.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\System.Buffers.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\System.Diagnostics.DiagnosticSource.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\System.Memory.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\GLS\SATO\KeepingList\KeepingList\bin\de\PdfSharp.resources.dll
+D:\GLS\SATO\KeepingList\KeepingList\bin\de\PdfSharp.Charting.resources.dll
+D:\GLS\SATO\KeepingList\KeepingList\obj\Debug\KeepingList.vbproj.AssemblyReference.cache
+D:\GLS\SATO\KeepingList\KeepingList\obj\Debug\KeepingList.Resources.resources
+D:\GLS\SATO\KeepingList\KeepingList\obj\Debug\KeepingList.vbproj.GenerateResource.cache
+D:\GLS\SATO\KeepingList\KeepingList\obj\Debug\KeepingList.vbproj.CoreCompileInputs.cache
+D:\GLS\SATO\KeepingList\KeepingList\obj\Debug\KeepingList.vbproj.CopyComplete
+D:\GLS\SATO\KeepingList\KeepingList\obj\Debug\KeepingList.dll
+D:\GLS\SATO\KeepingList\KeepingList\obj\Debug\KeepingList.xml
+D:\GLS\SATO\KeepingList\KeepingList\obj\Debug\KeepingList.pdb
